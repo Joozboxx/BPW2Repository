@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: firemat
+  m_Shader: {fileID: -6465566751694194690, guid: 563a7ce1070c5164cb3908502a00e28d,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_D0C738ED:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F0B0F282:
+        m_Texture: {fileID: 2800000, guid: ae35f7527e483544d9b3527235329d38, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_577CE8C: 0.97
+    m_Colors:
+    - Color_C2ED891F: {r: 0.8301887, g: 0, b: 0, a: 0}
+    - Vector2_AECFF2CE: {r: 0, g: -0.5, b: 0, a: 0}
+    - Vector2_E430E0E5: {r: 3.07, g: 1, b: 0, a: 0}
